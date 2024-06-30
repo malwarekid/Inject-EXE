@@ -23,7 +23,7 @@
 
 2. **Run the Script:**
 
-    `python Inject-EXE.py`
+    `python3.exe Inject-EXE.py`
 
 ```
 python3.exe Inject-EXE.py
